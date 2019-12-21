@@ -1,0 +1,4 @@
+-this is a game of connect 4
+-put connect4.py and stack.py in the same folder to play the game
+-run the connect4.py in spyder 
+-code is written in python 3
