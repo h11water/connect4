@@ -5,7 +5,7 @@ import random
 
 def startgame():
     '''start the game'''
-    board = createboard()                #ask how big is board
+    board = createboard()                #ask board size
     opponentiscomputer = chooseplayer()  #play against computer or player?
     winningposition = playing(board, opponentiscomputer)   #play the game
     highlightwin(winningposition,board)
